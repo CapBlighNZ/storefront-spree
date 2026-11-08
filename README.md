@@ -1,4 +1,4 @@
-# Spree Commerce Storefront
+# Spree Commerce Storefront 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org)
